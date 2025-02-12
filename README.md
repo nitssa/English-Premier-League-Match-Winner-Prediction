@@ -58,9 +58,7 @@ Ensure you have the following installed:
 
 ## Usage
 
-1. Enter team names in the input form.
-2. Click the "Predict" button to get match outcome predictions.
-3. View the predicted winner along with probability scores.
+1. View the predicted winner along with probability scores.
 
 ## Model Details
 
